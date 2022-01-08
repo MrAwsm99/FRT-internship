@@ -4,7 +4,7 @@ A simple web page that allows users to communicate with the [Azure Health Bot](h
 
 **Note:** In order to use this Web Chat with the Health Bot service, you will need to obtain your Web Chat secret by going to `Integration/Secrets` on the navigation panel.
 
-![Secrets](/secrets.png)
+![Secrets](/secret.png)
 
 1.Deploy the website:
 
