@@ -18,3 +18,6 @@ A simple web page that allows users to communicate with the [Azure Health Bot](h
 
 
 **Note:** If you are deploying the code sample using the "Deploy to Azure" option, you should add the above secrets to the application settings for your App Service.
+
+[To access the Virtual Health Assistant click on the link](http://healthcare-bot-ugensz4vmdckq.azurewebsites.net/)
+
