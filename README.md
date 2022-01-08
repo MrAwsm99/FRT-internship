@@ -21,3 +21,6 @@ A simple web page that allows users to communicate with the [Azure Health Bot](h
 
 [To access the Virtual Health Assistant click on the link](http://healthcare-bot-ugensz4vmdckq.azurewebsites.net/)
 
+This Will open Health bot where the user can diagnoses the symptoms and provide a report of the problem.
+
+![webhealth](/webhealth.jpg)
